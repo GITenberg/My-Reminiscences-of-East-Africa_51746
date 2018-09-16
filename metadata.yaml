@@ -1,0 +1,28 @@
+_repo: My-Reminiscences-of-East-Africa_51746
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lettow-Vorbeck, General von (Paul Emil)
+    aliases:
+    - Lettow-Vorbeck, Paul von
+    - Von Lettow-Vorbeck, General (Paul Emil)
+    - Lettow-Vorbeck, Paul Emil von
+    birthdate: 1870
+    deathdate: 1964
+    gutenberg_agent_id: '46537'
+    url: http://www.gutenberg.org/2009/agents/46537
+description: ''
+gutenberg_issued: '2016-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Tanzania'
+- GITenberg
+title: My Reminiscences of East Africa
+url: http://www.gutenberg.org/ebooks/51746
